@@ -1,0 +1,31 @@
+{
+  "name": "node-bravia-ip-control-simple",
+  "version": "0.0.1",
+  "description": "The node-bravia-ip-control-simple is a Node.js module which is a pure javascript implementation of the Simple IP Control for SONY BRAVIA Professional Displays. You can control BRAVIA Professional Displays in local network easily using this module.",
+  "main": "./lib/bravia-ip-control-simple.js",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BRAVIA",
+    "SONY",
+    "Simple IP control"
+  ],
+  "homepage": "https://github.com/futomi",
+  "author": "Futomi Hatano <futomi.hatano@gmail.com> (https://github.com/futomi)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/futomi/node-bravia-ip-control-simple.git"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "node-dns-sd": ">=0.4.0"
+  }
+}

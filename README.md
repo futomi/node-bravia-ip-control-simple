@@ -1173,7 +1173,7 @@ An object containing the information of the event will be passed to the callback
 ---------------------------------------
 ## <a id="References">References</a>
 
-* [BRAVIA Professional Display Simple IP control specification](https://pro-bravia.sony.net/develop/integrate/ssip/overview/index.html5)
+* [BRAVIA Professional Display Simple IP control specification](https://pro-bravia.sony.net/develop/integrate/ssip/overview/index.html)
 
 ---------------------------------------
 ## <a id="License">License</a>
